@@ -3,3 +3,11 @@
 
 .csv
 *.csv
+
+# PitchAI strict quality tooling
+.venv/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.semgrep/
+__pycache__/
